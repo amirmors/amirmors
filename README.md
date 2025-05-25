@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Amir 👋
+
+I'm a web designer and developer with a focus on building clean, responsive websites using HTML, CSS, JavaScript, and PHP.
+
+🛠️ Tools & Technologies:  
+HTML | CSS | JavaScript | PHP | WordPress 
+
+🌱 Currently building: A book summary platform using WordPress and custom PHP
+
